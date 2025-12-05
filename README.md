@@ -172,8 +172,6 @@ This project is provided for educational and research purposes.
 
 ## References
 
-- Damodaran, A. (2012). *Investment Valuation*
-- Brigo, D., & Mercurio, F. (2006). *Interest Rate Models*
 - CZCE Documentation: https://www.czce.com.cn/
 
 ---
